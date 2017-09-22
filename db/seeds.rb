@@ -1,0 +1,28 @@
+Deck.create(title: "All About Moxie")
+Deck.create(title: "All About Rutabaga")
+Deck.create(title: "All About Pillows")
+Deck.create(title: "All About Red Pandas")
+
+Card.create(deck_id: 1, question: "What kind of a dog am I?", answer: "Schnauzer")
+Card.create(deck_id: 1, question: "What is my favorite food?", answer: "Beans")
+Card.create(deck_id: 1, question: "What is my favorite place to be scratched?", answer: "Chest")
+Card.create(deck_id: 1, question: "True or false - I like it when people clap?", answer: "Woof!")
+
+Card.create(deck_id: 2, question: "What is my favorite place to sit?", answer: "Shoulders")
+Card.create(deck_id: 2, question: "True or false - I like to sit in your lap?", answer: "False")
+Card.create(deck_id: 2, question: "What color is my fur?", answer: "Black")
+
+Card.create(deck_id: 3, question: "True or false- I like showers?", answer: "No")
+Card.create(deck_id: 3, question: "True or false I take showers?", answer: "true")
+Card.create(deck_id: 3, question: "What is my favorite people food?", answer: "Spinach")
+
+Card.create(deck_id: 4, question: "Which famous red panda escaped from the Washington, D.C. National Zoo in 2013?", answer: "Rusty")
+Card.create(deck_id: 4, question: "Which famous red panda escaped from the Birmingham Nature Centre in England in 2005?", answer: "Babu")
+Card.create(deck_id: 4, question: "Which famous red panda in Japan is known for standing upright for up to ten seconds at a time?", answer: "Futa")
+Card.create(deck_id: 4, question: "Which web browser is named after me?", answer: "Firefox")
+Card.create(deck_id: 4, question: "What do I mainly eat?", answer: "Bamboo")
+Card.create(deck_id: 4, question: "True or false - red pandas are closely related to pandas?", answer: "False")
+Card.create(deck_id: 4, question: "Red pandas are the only non-primate species known to be able to taste what sweet food?", answer: "Aspartame")
+Card.create(deck_id: 4, question: "Red pandas' fur color lets them camouflage in what sort of trees?", answer: "Fir")
+Card.create(deck_id: 4, question: "In 1821, English naturalist Major General Thomas Hardwicke wanted to call red pandas what?", answer: "Wah")
+Card.create(deck_id: 4, question: "What is the conservation status of the red panda under the IUCN (International Union for Conservation of Nature)?", answer: "Vulnerable")
